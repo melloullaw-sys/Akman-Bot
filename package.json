@@ -1,3 +1,1 @@
-export default function App({ Component, pageProps }) {
-  return <Component {...pageProps} />;
-}
+{\n  "name": "akman-bot",\n  "version": "1.0.0",\n  "description": "Bill Ackman's Portfolio Intelligence Bot",\n  "scripts": {\n    "dev": "next dev",\n    "build": "next build",\n    "start": "next start",\n    "lint": "eslint ."\n  },\n  "dependencies": {\n    "react": "latest",\n    "react-dom": "latest",\n    "next": "latest"\n  }\n}
