@@ -1,19 +1,20 @@
-// translations
+// Exporting all data objects for multilingual content
+
 export const translations = {
-    // ... your translation data here
+    en: {...},
+    es: {...},
+    fr: {...},
+    // Add all languages and their respective translations here
 };
 
-// portfolioData
 export const portfolioData = [
-    // ... your portfolio data here
+    // Complete portfolio data content here
 ];
 
-// aiPicksData
 export const aiPicksData = [
-    // ... your AI picks data here
+    // Complete AI picks data content here
 ];
 
-// supercomputingData
 export const supercomputingData = [
-    // ... your supercomputing data here
+    // Complete supercomputing data content here
 ];
